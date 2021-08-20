@@ -4,6 +4,12 @@
 
 <p align='left'>Hi, I'm Russell. A junior web developer and SA:MP developer.</p>
 
+## My Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=russellraders&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellraders&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Support Me
 
 [![SOCIABUZZ](https://img.shields.io/badge/DONATE-SOCIABUZZ-brightgreen?style=for-the-badge)](https://sociabuzz.com/russell/donate)
