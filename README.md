@@ -4,11 +4,6 @@
 
 <p align='left'>Hi, I'm Russell. A junior web developer and SA:MP developer.</p>
 
-## My Github Stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=russellraders&show_icons=true&include_all_commits=true)](https://github.com/russellraders/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellraders&layout=compact)](https://github.com/russellraders/github-readme-stats)
-
 ## Support Me
 
 [![SOCIABUZZ](https://img.shields.io/badge/DONATE-SOCIABUZZ-brightgreen?style=for-the-badge)](https://sociabuzz.com/russell/donate)
